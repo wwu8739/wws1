@@ -1,0 +1,16 @@
+const jsObjectData = [
+  { id: 1, app: "browser", action: "refresh page", windows: "Ctrl + R", mac: "Cmd + R" },
+  { id: 2, app: "browser", action: "find on page", windows: "Ctrl + F", mac: "Cmd + F" },
+  { id: 3, app: "browser", action: "new tab", windows: "Ctrl + T", mac: "Cmd + T" },
+  { id: 4, app: "browser", action: "reopen closed tab", windows: "Ctrl + Shift + T", mac: "Cmd + Shift + T" },
+
+  { id: 5, app: "system", action: "switch apps", windows: "Alt + Tab", mac: "Cmd + Tab" },
+  { id: 6, app: "system", action: "show desktop", windows: "Win + D", mac: "F11" },
+
+  { id: 7, app: "text", action: "copy", windows: "Ctrl + C", mac: "Cmd + C" },
+  { id: 8, app: "text", action: "paste", windows: "Ctrl + V", mac: "Cmd + V" },
+  { id: 9, app: "text", action: "undo", windows: "Ctrl + Z", mac: "Cmd + Z" },
+
+  { id: 10, app: "vscode", action: "toggle terminal", windows: "Ctrl + `", mac: "Ctrl + `" },
+  { id: 11, app: "vscode", action: "command palette", windows: "Ctrl + Shift + P", mac: "Cmd + Shift + P" }
+];
