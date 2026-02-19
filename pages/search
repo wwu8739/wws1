@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Search Page</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+  <h1>Keyboard Shortcut Search</h1>
+
+  <input type="text" id="searchInput" placeholder="Search..." />
+  <button id="searchButton">Go</button>
+
+  <p id="searchMessage"></p>
+  <ul id="searchResults"></ul>
+
+  <!-- IMPORTANT: correct relative paths -->
+  <script src="../assets/data/data.js"></script>
+  <script src="../scripts/search.js"></script>
+
+</body>
+</html>
