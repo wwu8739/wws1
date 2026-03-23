@@ -18,7 +18,7 @@ As a food enthusiast resident, I want to browse, search, sort, and add items to 
 
 **Links**  
 - Repository:https://github.com/wwu8739/wws1
-- Live Demo (GitHub Pages): https://l-rashan.github.io/the-foodie-web-app  
+- Live Demo (GitHub Pages):   https://github.com/wwu8739/wws1
 - Design inspiration evidence:   Ubere![25576](https://github.com/user-attachments/assets/aec61a48-4d06-4082-a191-4327829c1d82)
 ats.com
 - Screenshot Issue: [#1 – Inspiration from Swiggy Mobile Menu](https://github.com/wwu8739/wws1)
