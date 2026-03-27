@@ -17,6 +17,7 @@ As a food enthusiast, I want to browse, search, sort, and add items to a dynamic
 **Links**  
 - Repository: https://github.com/wwu8739/wws1 
 - Screenshot Issue: [#1 – Inspiration from Swiggy Mobile Menu
+![17745898116883007973537754983131](https://github.com/user-attachments/assets/6d964bd7-7569-48e7-ae92-9bef29de19b3)
 
 **Design: pic(s) with short description of another site that inspired your design**  
 Heavily inspired by Swiggy's mobile menu interface – featuring a top search bar, clean responsive food cards (image + name + price + add button), and a floating cart summary. 
